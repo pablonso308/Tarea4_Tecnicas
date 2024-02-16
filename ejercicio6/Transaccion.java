@@ -1,9 +1,7 @@
 package ejercicio6;
 
-
 import java.util.ArrayList;
 import java.util.List;
-
 public class Transaccion {
     private boolean esFraudulenta;
     private int idtransacaccion;
